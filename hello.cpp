@@ -9,6 +9,6 @@ using std::endl;
 
 int main()
 {
-    cout << "Hello, World! 1" << endl;
+    cout << "Hello, World! 2" << endl;
     return 0;
 }
